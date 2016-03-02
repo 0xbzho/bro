@@ -1,0 +1,1 @@
+[{"cmd":"amixer","msg":"# Use amixer to ajust your volume. \n# \"Master\" reffers to master volume. \n#\n# tip: this is greate for keybinding.\n\namixer sset Master 5%+ \n-increace volume by 5% \n\namixer sset Master 5%-\n-decrese volume by 5%","updated_at":"2014-01-29T11:39:53.000Z","id":419,"up":1,"down":0}]

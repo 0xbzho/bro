@@ -1,0 +1,1 @@
+[{"cmd":"modprobe","msg":"# load a kernel module\nmodprobe \u003Cmodule\u003E\n\n# unload a kernel module\nmodprobe -r \u003Cmodule\u003E","updated_at":"2015-12-19T04:17:08.000Z","id":1136,"up":2,"down":0}]

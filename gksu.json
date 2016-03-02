@@ -1,0 +1,1 @@
+[{"cmd":"gksu","msg":"# Shows a user interface for sudo. Use gksudo [options] \u003Ccommand\u003E\ngksudo -m \"Input Password\" whoami","updated_at":"2014-03-02T16:43:09.000Z","id":600,"up":1,"down":0}]

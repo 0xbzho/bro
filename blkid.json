@@ -1,0 +1,1 @@
+[{"cmd":"blkid","msg":"# Display block device attributes such as UUID and filesystem type\nblkid /dev/sdb1","updated_at":"2015-12-13T19:32:51.000Z","id":1065,"up":2,"down":0}]

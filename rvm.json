@@ -1,0 +1,1 @@
+[{"cmd":"rvm","msg":"# Switches RVM to use Ruby version 1.9.2 and sets it as the default\nrvm --default use 1.9.2","updated_at":"2015-05-19T07:06:45.000Z","id":34,"up":9,"down":0},{"cmd":"rvm","msg":"# remove your .rvm folder and obliterate everything installed with rvm\nrvm implode --force","updated_at":"2015-10-30T08:50:28.000Z","id":1025,"up":2,"down":0}]

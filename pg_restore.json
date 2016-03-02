@@ -1,0 +1,1 @@
+[{"cmd":"pg_restore","msg":"# Restore a PostgreSQL database from an archive file created by pg_dump\n\n# Detailed Version\npg_restore --verbose --clean --no-acl --no-owner -h localhost -U your_user -d your_db_name path/to/archive.dump\n\n# Simple Version\npg_restore your_db_name path/to/archive.dump","updated_at":"2014-01-30T06:30:42.000Z","id":433,"up":1,"down":0}]

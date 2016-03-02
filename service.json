@@ -1,0 +1,1 @@
+[{"cmd":"service","msg":"# Shows statuses of all services\nservice --status-all","updated_at":"2015-11-14T22:10:38.000Z","id":681,"up":3,"down":0},{"cmd":"service","msg":"# restart the service called apache2, if you are logged in as root:\nservice apache2 restart\nsudo service apache2 restart","updated_at":"2014-01-26T06:17:18.000Z","id":212,"up":1,"down":0}]

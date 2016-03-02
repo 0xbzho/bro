@@ -1,0 +1,1 @@
+[{"cmd":"git clone","msg":"# clone a repo from a file called repo.bundle\n# which was created using 'git bundle'\ngit clone repo.bundle -b master repo","updated_at":"2015-10-22T18:23:52.000Z","id":480,"up":1,"down":1}]

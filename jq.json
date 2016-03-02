@@ -1,0 +1,1 @@
+[{"cmd":"jq","msg":"# Pipe JSON file to less but keep colored output\njq --color-output . file.json | less -R","updated_at":"2015-08-26T14:18:19.000Z","id":120,"up":3,"down":0},{"cmd":"jq","msg":"# Read a gzipped JSON file\ngzip -d -c file.json.gz | jq .","updated_at":"2014-01-25T18:57:08.000Z","id":119,"up":1,"down":0}]

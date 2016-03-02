@@ -1,0 +1,1 @@
+[{"cmd":"mogrify","msg":"#batch resize all .jpgs in current dir to 1024 height (keeps aspect ratio)\n#install Imagemagick, files will be overwritten!\nmogrify -resize x400 *.jpg","updated_at":"2014-08-19T11:09:06.000Z","id":843,"up":1,"down":0}]

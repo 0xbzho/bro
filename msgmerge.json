@@ -1,0 +1,1 @@
+[{"cmd":"msgmerge","msg":"# Merge a translated file with an updated template\nmsgmerge englishtemplate.pot korean.po -o merged_korean.po","updated_at":"2014-07-08T22:22:07.000Z","id":819,"up":1,"down":0}]

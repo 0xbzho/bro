@@ -1,0 +1,1 @@
+[{"cmd":"make","msg":"# Parallelize your make. Utilise your cores to their full potential! Substitute the number for however many physical cores your machine has.\nmake -j4","updated_at":"2016-01-10T13:25:53.000Z","id":351,"up":7,"down":0},{"cmd":"make","msg":"# Make make verbose\nmake V=1","updated_at":"2014-01-27T17:53:27.000Z","id":352,"up":1,"down":0}]

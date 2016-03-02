@@ -1,0 +1,1 @@
+[{"cmd":"^","msg":"# Run previous command but replacing, useful when you have a typo\n$ echo \"I write currectly\"\n\u003E I write currectly\n$ ^u^o\n\u003E I write correctly\n\n# Default is empty so...\nvim file.txtç\n# Open an unwanted file, but then\n^ç\n# Opens the file you want (file.txt)","updated_at":"2014-01-25T22:05:47.000Z","id":169,"up":1,"down":0}]

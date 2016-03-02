@@ -1,0 +1,1 @@
+[{"cmd":"http-server","msg":"# To serve current directory as static web\nhttp-server\n\n# To server from a different port\nhttp-server -p 9090\n\n# to server from different host\nhttp-server -a 127.0.0.1","updated_at":"2015-09-15T22:16:45.000Z","id":1171,"up":1,"down":0}]

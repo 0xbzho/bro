@@ -1,0 +1,1 @@
+[{"cmd":"apt-key","msg":"# your_comment_here\n# downloads a key via port 80 in case you're firewalled restrictively:\nsudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys $KEYID","updated_at":"2014-03-07T11:54:53.000Z","id":487,"up":2,"down":0}]

@@ -1,0 +1,1 @@
+[{"cmd":"source","msg":"# your_comment_here\nWTF does source do?\nWhen a script is run using `source' it runs within the existing shell, any variables created or modified by the script will remain available after the script completes","updated_at":"2015-10-12T13:57:56.000Z","id":790,"up":7,"down":0}]

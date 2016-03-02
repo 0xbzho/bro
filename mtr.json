@@ -1,0 +1,1 @@
+[{"cmd":"mtr","msg":"# Runs a basic traceroute using MyTraceRoute with domains and IP addresses and outputs a basic report\nmtr --show-ips --report google.com","updated_at":"2015-06-16T16:00:04.000Z","id":623,"up":2,"down":0}]

@@ -1,0 +1,1 @@
+[{"cmd":"sysctl","msg":"# Disable IPv6 on all interfaces\nsysctl net.ipv6.conf.all.disable_ipv6=1","updated_at":"2015-02-02T09:25:13.000Z","id":999,"up":1,"down":0}]

@@ -1,0 +1,1 @@
+[{"cmd":"macchanger","msg":"# Changes to a random mac address\nmacchanger -r wlan0","updated_at":"2014-12-17T06:18:48.000Z","id":961,"up":1,"down":0},{"cmd":"macchanger","msg":"# Changes mac address to xx:xx:xx:xx:xx:xx on interface eth0\nmacchanger -m xx:xx:xx:xx:xx:xx eth0","updated_at":"2014-12-17T06:20:19.000Z","id":962,"up":1,"down":0}]

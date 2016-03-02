@@ -1,0 +1,1 @@
+[{"cmd":"adduser","msg":"# Agregar usuarios al sistema\nadduser pepe\n\n# Agrega usuario a un grupo\nadduser -g pepe","updated_at":"2016-02-15T12:01:18.000Z","id":937,"up":2,"down":1},{"cmd":"adduser","msg":"# Agregar usuario a grupo\nadduser -g pepe audio","updated_at":"2015-11-14T18:09:46.000Z","id":938,"up":1,"down":1}]

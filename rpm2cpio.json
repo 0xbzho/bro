@@ -1,0 +1,1 @@
+[{"cmd":"rpm2cpio","msg":"# Extract the contents of an RPM\nrpm2cpio mypackage.src.rpm | cpio -i --make-directories","updated_at":"2014-02-05T18:01:30.000Z","id":509,"up":1,"down":0}]

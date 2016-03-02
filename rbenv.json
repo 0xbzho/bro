@@ -1,0 +1,1 @@
+[{"cmd":"rbenv","msg":"# Generate shims for gem executables (do this after installing a new gem\n# that has a command associated with it)\nrbenv rehash","updated_at":"2014-01-27T03:32:21.000Z","id":301,"up":1,"down":0},{"cmd":"rbenv","msg":"# List all the ruby versions rbenv can install\nrbenv install --list","updated_at":"2014-01-27T03:33:43.000Z","id":302,"up":1,"down":0}]

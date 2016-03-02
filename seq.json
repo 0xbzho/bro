@@ -1,0 +1,1 @@
+[{"cmd":"seq","msg":"# Print 000,001,002, ... ,100\nseq -s , -w 0 100","updated_at":"2015-05-27T10:53:56.000Z","id":213,"up":5,"down":0},{"cmd":"seq","msg":"# print numbers 1 through 10 (fish shell only)\nseq 10","updated_at":"2015-07-16T17:38:13.000Z","id":1132,"up":1,"down":0}]

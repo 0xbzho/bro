@@ -1,0 +1,1 @@
+[{"cmd":"telnet","msg":"# Connects to a telnet server or TCP socket on port 3030 of 192.168.1.10\ntelnet 192.168.1.10 3030","updated_at":"2015-06-25T19:09:53.000Z","id":557,"up":8,"down":0},{"cmd":"telnet","msg":"# Watch Star Wars over commandline  \ntelnet towel.blinkenlights.nl","updated_at":"2016-02-15T12:15:27.000Z","id":727,"up":4,"down":0}]

@@ -1,0 +1,1 @@
+[{"cmd":"port","msg":"# Update MacPorts's ports list and internals\nsudo port selfupdate","updated_at":"2014-01-25T19:59:01.000Z","id":142,"up":1,"down":0},{"cmd":"port","msg":"# Update installed but outdated packages\nsudo port upgrade outdated","updated_at":"2014-01-26T15:34:37.000Z","id":256,"up":1,"down":0}]

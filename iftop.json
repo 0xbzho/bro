@@ -1,0 +1,1 @@
+[{"cmd":"iftop","msg":"#Monitor the wlan0 device in bytes\niftop -i wlan0 -B","updated_at":"2014-02-20T18:04:04.000Z","id":571,"up":1,"down":0},{"cmd":"iftop","msg":"# Monitor the traffic between your pc and IP 192.168.0.2:80 (Need root permission)\nsudo iftop -BP -f 'host 192.168.0.2 and port 80'","updated_at":"2014-03-11T09:31:17.000Z","id":627,"up":1,"down":0}]

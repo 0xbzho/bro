@@ -1,0 +1,1 @@
+[{"cmd":"conky","msg":"# This is a terribly inefficient way to display a fortune in Conky\n# This is for your .conkyrc\n${execi 600 fortune -s \u003E ~/fortune; sed '/^$/d' \u003E ~/fortune \u003E ~/fortune2; rm ~fortune; cat ~/fortune2}","updated_at":"2014-12-07T15:17:36.000Z","id":951,"up":1,"down":0}]

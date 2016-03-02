@@ -1,0 +1,1 @@
+[{"cmd":"nmcli","msg":"# Lists the available wifi networks\nnmcli device wifi","updated_at":"2015-10-14T11:31:48.000Z","id":1201,"up":1,"down":0}]

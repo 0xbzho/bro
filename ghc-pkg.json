@@ -1,0 +1,1 @@
+[{"cmd":"ghc-pkg","msg":"# list packages\nghc-pkg list\n# global only\nghc-pkg list --global\n# user only\nghc-pkg list --user\n\n# delete a package\nghc-pkg unregister deepseq\n\n# find broken packages\nghc-pkg check","updated_at":"2014-01-26T20:30:25.000Z","id":270,"up":1,"down":0}]

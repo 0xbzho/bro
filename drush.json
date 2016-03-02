@@ -1,0 +1,1 @@
+[{"cmd":"drush","msg":"# Clear all the Drupal cache\ndrush cc all\n\n# Perform the database update (executes the hook_update)\ndrush updb","updated_at":"2014-02-07T21:34:34.000Z","id":348,"up":2,"down":0}]

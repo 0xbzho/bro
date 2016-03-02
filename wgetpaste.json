@@ -1,0 +1,1 @@
+[{"cmd":"wgetpaste","msg":"# wgetpaste a file as input\nwgetpaste ~/somefile\n\n# wgetpaste standard output\nfoo -xvjpf bar 2\u003E\u00261 | wgetpaste","updated_at":"2014-06-25T03:55:13.000Z","id":809,"up":1,"down":0}]

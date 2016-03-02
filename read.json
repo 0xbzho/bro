@@ -1,0 +1,1 @@
+[{"cmd":"read","msg":"# Reads from file descriptor, which is the first parameter, into the buffer,\n# which is the second paramater, x amount of bytes, which is the third\n# parameter. \nread(1, buffer, bytesToRead);","updated_at":"2016-02-15T23:26:23.000Z","id":687,"up":2,"down":2}]

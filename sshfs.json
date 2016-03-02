@@ -1,0 +1,1 @@
+[{"cmd":"sshfs","msg":"# mount foobar from remote host to existing local mountpoint, show Foobar as\n# volume name in Finder and automatically reconnect upon loss of connection.\nsshfs user@host:/foobar /Volumes/foobar -ovolname=Foobar,reconnect","updated_at":"2015-07-28T06:32:16.000Z","id":194,"up":4,"down":0}]

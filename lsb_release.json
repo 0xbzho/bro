@@ -1,0 +1,1 @@
+[{"cmd":"lsb_release","msg":"# Determine the OS version you are running\nlsb_release -d\n\n# Figure out what crazy name Ubuntu is using for your version\nlsb_release -c","updated_at":"2014-04-17T17:51:15.000Z","id":524,"up":2,"down":0}]

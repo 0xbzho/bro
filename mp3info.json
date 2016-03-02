@@ -1,0 +1,1 @@
+[{"cmd":"mp3info","msg":"# print bitrate of filename.mp3\nmp3info -r m -p \"%f %r\\n\" filename.mp3","updated_at":"2014-11-19T13:08:38.000Z","id":940,"up":1,"down":0}]

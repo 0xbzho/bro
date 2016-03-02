@@ -1,0 +1,1 @@
+[{"cmd":"swift","msg":"# List the containers for the user swiftops with the key swiftops\nswift -A https://127.0.0.1:443/auth/v1.0 -U swiftops:swiftops -K swiftops list","updated_at":"2015-10-22T11:14:38.000Z","id":1209,"up":1,"down":0}]

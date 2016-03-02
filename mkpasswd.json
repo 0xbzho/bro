@@ -1,0 +1,1 @@
+[{"cmd":"mkpasswd","msg":"# Generate a new password using /dev/random and the word \"hello\"\nmkpasswd hello","updated_at":"2014-02-07T21:32:10.000Z","id":523,"up":1,"down":0}]

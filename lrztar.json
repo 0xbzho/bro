@@ -1,0 +1,1 @@
+[{"cmd":"lrztar","msg":"# tar and lrzip a directory\nlrztar \u003Cdir\u003E\n\n# tar\u0026lrzip with maximum compression into a certain directory\nlrztar -L 9 -o /dir/output.tar.lrz \u003Cdir\u003E","updated_at":"2015-05-18T02:57:03.000Z","id":1098,"up":1,"down":0}]

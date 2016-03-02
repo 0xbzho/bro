@@ -1,0 +1,1 @@
+[{"cmd":"uuidgen","msg":"# Create a time and ethernet mac based uuid\nuuidgen -t","updated_at":"2014-01-29T19:02:44.000Z","id":426,"up":1,"down":0},{"cmd":"uuidgen","msg":"# Generate random (don't use for crypto!) uuid\nuuidgen -r","updated_at":"2014-01-29T19:03:46.000Z","id":427,"up":1,"down":0}]

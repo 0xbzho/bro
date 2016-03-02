@@ -1,0 +1,1 @@
+[{"cmd":"virtualenv","msg":"# Create a virtualenv\nvirtualenv \u003Cname\u003E\n\n# Create a virtualenv with Python 3\nvirtualenv \u003Cname\u003E -p /usr/bin/python3\n\n# Create a virtualenv that inherits system packages\nvirtualenv \u003Cname\u003E --system-site-packages","updated_at":"2015-05-17T20:13:06.000Z","id":1096,"up":1,"down":0}]

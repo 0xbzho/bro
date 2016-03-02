@@ -1,0 +1,1 @@
+[{"cmd":"git bisect","msg":"# Find a bug introduced between the current commit and commit \"ee6ca9\"\ngit bisect start\ngit bisect bad\ngit bisect good ee6ca9","updated_at":"2015-12-11T18:18:17.000Z","id":1238,"up":1,"down":0}]

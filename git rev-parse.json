@@ -1,0 +1,1 @@
+[{"cmd":"git rev-parse","msg":"# get the hash of the HEAD commit\ngit rev-parse HEAD","updated_at":"2015-01-30T00:38:37.000Z","id":997,"up":1,"down":0}]

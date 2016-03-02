@@ -1,0 +1,1 @@
+[{"cmd":"route","msg":"# Set a default gateway \n# route add default gateway [ip address] [eth device]\nroute add default gateway 172.19.0.1 eth0","updated_at":"2015-02-11T19:28:13.000Z","id":760,"up":2,"down":0}]

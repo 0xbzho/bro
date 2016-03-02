@@ -1,0 +1,1 @@
+[{"cmd":"bcrypt","msg":"# Encrypt a file. Asks you about a secret Passphrase to decrypt it again.\nbcrypt my_diary.txt","updated_at":"2015-03-25T08:35:06.000Z","id":1052,"up":1,"down":0}]

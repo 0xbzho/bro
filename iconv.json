@@ -1,0 +1,1 @@
+[{"cmd":"iconv","msg":"# Converts in.txt from UTF-8 to ISO-8859-1 and prints it to stdout\niconv -f UTF-8 -t ISO-8859-1 in.txt","updated_at":"2015-09-09T21:17:49.000Z","id":1164,"up":1,"down":0},{"cmd":"iconv","msg":"# Lists all available character encodings\niconv -l","updated_at":"2015-09-09T21:19:10.000Z","id":1165,"up":1,"down":0}]

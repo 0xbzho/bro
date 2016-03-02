@@ -1,0 +1,1 @@
+[{"cmd":"ddrescue","msg":"# Basic copy from partition sdb2 to img file with 2 retries max, no split of blocks, and verbose\nddrescue -v -r2 -n /dev/sdb2 filename.img logfile.log","updated_at":"2015-11-16T18:41:25.000Z","id":421,"up":3,"down":0}]

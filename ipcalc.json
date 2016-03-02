@@ -1,0 +1,1 @@
+[{"cmd":"ipcalc","msg":"# Find the subnet mask (e.g 255.255.255.0) when you have a the amount of bits (e.g 24)\nipcalc -m 10.0.10.0/24\n# Find the amount of bits when you have a the subnet mask\nipcalc -p 10.0.10.0 255.255.255.0","updated_at":"2014-09-24T14:31:01.000Z","id":853,"up":1,"down":0}]

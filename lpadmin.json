@@ -1,0 +1,1 @@
+[{"cmd":"lpadmin","msg":"# Unmaps all printers\nlpadmin -x all\n\n# Unmaps a specific printer foo\nlpadmin -x foo","updated_at":"2014-02-12T21:30:39.000Z","id":547,"up":1,"down":0}]

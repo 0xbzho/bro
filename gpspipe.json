@@ -1,0 +1,1 @@
+[{"cmd":"gpspipe","msg":"# Saves raw nmea strings from GPS serial device to file and stdout \ngpspipe -r | tee position.nmea\n\n# Get current date and time from gpspipe and set system time\nGPSDATE=`gpspipe -w | head -10 | grep TPV | sed -r 's/.*\"time\":\"([^\"]*)\".*/\\1/' | head -1`\ndate -s \"$GPSDATE\"","updated_at":"2016-02-24T18:09:45.000Z","id":1289,"up":1,"down":0}]

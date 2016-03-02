@@ -1,0 +1,1 @@
+[{"cmd":"strcpy","msg":"# copy a string to a variable\nstrcpy(dest, src);","updated_at":"2014-02-26T18:12:44.000Z","id":583,"up":1,"down":0}]

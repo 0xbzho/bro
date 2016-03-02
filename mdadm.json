@@ -1,0 +1,1 @@
+[{"cmd":"mdadm","msg":"# Shows detailed information for RAID-device md0\nsudo mdadm --detail /dev/md0","updated_at":"2014-09-26T06:17:04.000Z","id":855,"up":1,"down":0},{"cmd":"mdadm","msg":"# Shows detailed information for drive in RAID-device\nsudo mdadm --examine /dev/sda1","updated_at":"2014-10-14T07:09:34.000Z","id":887,"up":1,"down":0}]

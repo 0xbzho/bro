@@ -1,0 +1,1 @@
+[{"cmd":"chage","msg":"# your_comment_here\nchage -m 0 -M 99999 -I -1 -E -1 username","updated_at":"2015-03-18T18:12:21.000Z","id":1049,"up":1,"down":0},{"cmd":"chage","msg":"# Configure a user's password not to expire\nchage -m 0 -M 99999 -I -1 -E -1 username","updated_at":"2015-03-18T18:13:37.000Z","id":1050,"up":1,"down":0}]

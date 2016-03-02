@@ -1,0 +1,1 @@
+[{"cmd":"restorecon","msg":"# Re-apply the selinux context to the dir /var/www\nrestorecon -R -v /var/www","updated_at":"2014-01-29T22:30:16.000Z","id":429,"up":1,"down":0}]

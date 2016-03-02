@@ -1,0 +1,1 @@
+[{"cmd":"umount","msg":"# Unmount (rather than eject) a volume (like a CD or a second hard drive)\numount /media/[your_username]/[volume_name]","updated_at":"2015-04-13T20:00:14.000Z","id":631,"up":2,"down":0}]

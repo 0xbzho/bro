@@ -1,0 +1,1 @@
+[{"cmd":"identify","msg":"# Write image width and height to stdout\nidentify -format \"Width: %w, Height: %h\" test.jpg","updated_at":"2015-08-09T22:05:01.000Z","id":1153,"up":1,"down":0}]

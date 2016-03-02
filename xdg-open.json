@@ -1,0 +1,1 @@
+[{"cmd":"xdg-open","msg":"# Opens specified file with the user's preferred application\nxdg-open file.txt","updated_at":"2014-04-03T22:07:08.000Z","id":685,"up":1,"down":0},{"cmd":"xdg-open","msg":"# Opens specified URL with the user's preferred web browser\nxdg-open http://www.google.com","updated_at":"2014-04-03T22:08:32.000Z","id":686,"up":1,"down":0}]

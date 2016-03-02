@@ -1,0 +1,1 @@
+[{"cmd":"git fetch","msg":"# Updates your local copy of the 'foo' remote repository\n# --prune : removes branches in your local copy of the repository that don't exist/were deleted on the remote\ngit fetch --prune foo","updated_at":"2014-01-21T05:25:35.000Z","id":33,"up":1,"down":0}]

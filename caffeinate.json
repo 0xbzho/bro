@@ -1,0 +1,1 @@
+[{"cmd":"caffeinate","msg":"# Disable sleep on Mac from the command line temporarily:\ncaffeinate\n\n# Run for 4 hours:\ncaffeinate -t 144000 \u0026\n\n# Attach to other commands to prevent Mac from sleeping:\ncaffeinate [command_to_run] -arguments","updated_at":"2014-12-29T16:15:40.000Z","id":682,"up":2,"down":0}]

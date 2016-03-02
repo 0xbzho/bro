@@ -1,0 +1,1 @@
+[{"cmd":"xsltproc","msg":"# explanation of xsltproc\nTransform an XML file using an XSLT template file\n\nxsltproc template.xsl data.xml \u003E output.xml","updated_at":"2014-07-10T03:57:22.000Z","id":823,"up":1,"down":0}]

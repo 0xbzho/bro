@@ -1,0 +1,1 @@
+[{"cmd":"type","msg":"# show the command that is run if you type a command\n# displays the kind of command the shell will execute, given a particular command name\ntype ls","updated_at":"2014-01-28T02:23:11.000Z","id":376,"up":1,"down":0}]

@@ -1,0 +1,1 @@
+[{"cmd":"inkscape","msg":"# Convert SVG to PDF without starting GUI\n# (echo a.svg --export-pdf=a.pdf;\n# echo b.svg --export-pdf=b.pdf) |\n# DISPLAY= inkscape --shell\n\n# your_comment_here\nIn order to get a cropped PDF use -D option.","updated_at":"2014-10-31T00:22:39.000Z","id":922,"up":1,"down":0}]

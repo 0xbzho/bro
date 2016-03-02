@@ -1,0 +1,1 @@
+[{"cmd":"|","msg":"# Passes/Pipes output to another command\n# Useful for text manipulation, batch file manipulation etc.\n# Searches syslog for invalid user and outputs IP\ngrep '.sshd.*Invalid user' /var/log/messages | awk '{print $NF}' | sort -u","updated_at":"2014-04-04T19:18:29.000Z","id":692,"up":1,"down":0}]

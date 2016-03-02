@@ -1,0 +1,1 @@
+[{"cmd":"snmpwalk","msg":"# Retrive a subtree of managment values using verison 2\nsnmpwalk -v2c -cpublic \u003Csnmp_agent_IP\u003E","updated_at":"2014-03-11T13:18:55.000Z","id":629,"up":2,"down":0}]

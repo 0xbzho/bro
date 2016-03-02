@@ -1,0 +1,1 @@
+[{"cmd":"add-apt-repository","msg":"# Add a PPA to your apt repositories:\nsudo add-apt-repository ppa:user/ppa-name\n\n# Remove the PPA from your apt repositories\nsudo add-apt-repository -r ppa:user/ppa-name\n\n# Remember to update your cache for these changes to take effect:\nsudo apt-get update","updated_at":"2015-04-22T19:34:50.000Z","id":1074,"up":1,"down":0}]

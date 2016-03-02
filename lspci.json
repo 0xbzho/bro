@@ -1,0 +1,1 @@
+[{"cmd":"lspci","msg":"# list PCI devices\nlspci\n# also print corresponding kernel modules/drivers\nlspci -k\n# output overly verbose information about every device\nlspci -v","updated_at":"2014-03-23T01:53:17.000Z","id":667,"up":1,"down":0}]

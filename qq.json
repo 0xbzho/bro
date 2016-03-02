@@ -1,0 +1,1 @@
+[{"cmd":"qq","msg":"# Stores the answer to a question to be retrieved later\nqq -a \"Where did I leave my glasses\" \"On the kitchen bench\"\n\n# Get the answer you're looking for using fragmented terms\nqq where glasses","updated_at":"2014-03-11T12:21:13.000Z","id":628,"up":1,"down":0}]

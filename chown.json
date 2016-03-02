@@ -1,0 +1,1 @@
+[{"cmd":"chown","msg":"# change owner of entire directory recursively\nchown -R brouser:brogroup path/to/directory/","updated_at":"2016-01-14T02:32:57.000Z","id":8,"up":40,"down":0},{"cmd":"chown","msg":"# Copy ownership from one directory/file to another\nchown --reference=otherfile thisfile","updated_at":"2015-12-30T20:10:22.000Z","id":1265,"up":1,"down":0}]

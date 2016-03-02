@@ -1,0 +1,1 @@
+[{"cmd":"iotop","msg":"# Start iotop \nsudo iotop\n\n# Only show processes (not threads)\nsudo iotop -P\n\n# Show only processes with activity, update every 10th second\nsudo iotop -o -d 10\n\n# Turn on non-interactive mode that can e.g. be consumed by scripts\nsudo iotop -b","updated_at":"2014-01-27T08:24:53.000Z","id":310,"up":1,"down":0}]

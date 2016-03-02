@@ -1,0 +1,1 @@
+[{"cmd":"qemu","msg":"# launch a live session from an ISO file called \"LIVE.iso\" and allocate 512 mb to the virtual machine\nqemu -m 512 LIVE.iso\nqemu-kvm -m 512 LIVE.iso\nqemu-system-i386 -m 512 LIVE.iso","updated_at":"2014-04-05T05:27:55.000Z","id":694,"up":1,"down":0}]

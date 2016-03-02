@@ -1,0 +1,1 @@
+[{"cmd":"lame","msg":"# The only way to use lame for [.mp3/.ogg/.aac/.wav/.aif/.aiff/.au/.voc/.wma/.flac]\nlame --preset insane \u003Cinfile.whatever\u003E \u003Coutfile.mp3\u003E","updated_at":"2014-07-03T13:56:31.000Z","id":755,"up":2,"down":0}]

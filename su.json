@@ -1,0 +1,1 @@
+[{"cmd":"su","msg":"# change the current user to el\nsu el","updated_at":"2014-04-30T22:15:51.000Z","id":378,"up":2,"down":0},{"cmd":"su","msg":"# run command \"rm -rf bar\" as user \"tim\"\nsu tim -c 'rm -rf bar'","updated_at":"2014-04-09T20:13:06.000Z","id":706,"up":1,"down":0}]

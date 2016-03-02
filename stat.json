@@ -1,0 +1,1 @@
+[{"cmd":"stat","msg":"# Display the file type and permissions of a file/folder in octal format\nstat -f %p filename","updated_at":"2014-10-25T16:59:12.000Z","id":603,"up":2,"down":0}]

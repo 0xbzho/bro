@@ -1,0 +1,1 @@
+[{"cmd":"killall","msg":"# No, really.. kill the process\nkillall -KILL java","updated_at":"2015-08-21T14:00:53.000Z","id":413,"up":3,"down":0},{"cmd":"killall","msg":"# Kills (stops) all running 'java' processes. It only kills processes you have permission to kill.\nkillall java","updated_at":"2015-08-21T14:00:57.000Z","id":233,"up":3,"down":1}]

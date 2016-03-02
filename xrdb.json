@@ -1,0 +1,1 @@
+[{"cmd":"xrdb","msg":"# Reload your .Xresources without having to restart while removing old resources\nxrdb ~/.Xresources\n\n# Reload but keep old resources\nxrdb -merge ~/.Xresources","updated_at":"2015-10-19T22:16:08.000Z","id":1207,"up":1,"down":0}]

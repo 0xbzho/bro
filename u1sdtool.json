@@ -1,0 +1,1 @@
+[{"cmd":"u1sdtool","msg":"# Replace PATH with a folder you want to sync to Ubuntu One\nu1sdtool --create-folder=PATH","updated_at":"2014-03-01T09:08:51.000Z","id":599,"up":1,"down":0}]

@@ -1,0 +1,1 @@
+[{"cmd":"mailx","msg":"# Send a mail:\necho '\u003Cmail_body\u003E' | mailx -s '\u003Cmail_subject\u003E' \u003Cmail_address\u003E","updated_at":"2015-09-30T18:55:44.000Z","id":432,"up":3,"down":0}]

@@ -1,0 +1,1 @@
+[{"cmd":"mkvirtualenv","msg":"# Create a virtualenv named virtual_env_name. It will be created in WORKON_HOME.\nmkvirtualenv virtual_env_name","updated_at":"2016-02-23T11:47:50.000Z","id":697,"up":2,"down":0}]

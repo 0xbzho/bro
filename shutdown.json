@@ -1,0 +1,1 @@
+[{"cmd":"shutdown","msg":"# restart machine in 30 minutes\nshutdown -r +30","updated_at":"2015-05-08T14:32:34.000Z","id":311,"up":8,"down":0},{"cmd":"shutdown","msg":"# shutdown machine immediately\nshutdown -h now","updated_at":"2015-05-08T14:32:37.000Z","id":309,"up":6,"down":0}]

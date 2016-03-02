@@ -1,0 +1,1 @@
+[{"cmd":"md5","msg":"# print the md5 sum of a given file\nmd5 -q filename\n# print the md5 sum of a given string\nmd5 -qs 'string'","updated_at":"2015-09-19T18:59:49.000Z","id":434,"up":5,"down":0}]

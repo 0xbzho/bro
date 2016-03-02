@@ -1,0 +1,1 @@
+[{"cmd":"sqlite3","msg":"# Generate a dump .sql file\nsqlite3 database.sqlite3 .dump \u003E db_dump.sql","updated_at":"2016-02-01T14:39:08.000Z","id":716,"up":5,"down":0}]

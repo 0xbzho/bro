@@ -1,0 +1,1 @@
+[{"cmd":"git submodule","msg":"# Add a submodule as \"name\"\ngit submodule add ssh://url name\n\n# Update all submodules (after git clone)\ngit submodule update --init --recursive","updated_at":"2015-10-01T11:45:45.000Z","id":494,"up":4,"down":0}]

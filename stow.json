@@ -1,0 +1,1 @@
+[{"cmd":"stow","msg":"# Create symlinks for the .vim and foo folders in\n# the current dir into ~.\nstow -v -t ~ .vim foo\n-v verbose\n-t the target directory where symlinks should go: ~\n-D add this flag to remove the symlinks (unlink)","updated_at":"2015-10-26T02:03:54.000Z","id":1000,"up":3,"down":0}]

@@ -1,0 +1,1 @@
+[{"cmd":"ccze","msg":"# output and follow the colorized output of syslog\ntail -f -n 50 /var/log/syslog | ccze","updated_at":"2015-04-23T10:54:36.000Z","id":1075,"up":1,"down":0}]

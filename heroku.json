@@ -1,0 +1,1 @@
+[{"cmd":"heroku","msg":"# clone app to local directory\nheroku git:clone -a \u003Capp_name\u003E","updated_at":"2015-04-02T19:58:06.000Z","id":1066,"up":1,"down":0}]

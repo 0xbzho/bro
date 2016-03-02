@@ -1,0 +1,1 @@
+[{"cmd":"redis-cli","msg":"# your_comment_here\n`redis-cli` opens a comand line interface for working with a running instance of a redis-server, defaults to the default redis-server.","updated_at":"2015-02-12T04:49:41.000Z","id":1008,"up":1,"down":0}]

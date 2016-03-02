@@ -1,0 +1,1 @@
+[{"cmd":"wp","msg":"# Adds a new user with user name \"janesmith\" to the Wordpress database as an\n# admin.\nwp user create janesmith jsmith@gmail.com --role=administrator --user_pass=farglenuts --display_name=\"Jane Smith\"","updated_at":"2014-06-10T12:22:54.000Z","id":782,"up":1,"down":0}]

@@ -1,0 +1,1 @@
+[{"cmd":"badblocks","msg":"# Check a device for bad blocks in a non destructible way\n#Change /dev/sdX with the path to the device\nbadblocks -nsv /dev/sdX","updated_at":"2014-04-22T18:29:26.000Z","id":677,"up":2,"down":0}]

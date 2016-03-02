@@ -1,0 +1,1 @@
+[{"cmd":"mmaker","msg":"# your_comment_here\nyour_command_here\n\n# To_update_openbox_menu\nmmaker -v OpenBox3\n\n# To_update_openox_menu_by_overwrting_rc.xml\nmmaker -vf OpenBox3","updated_at":"2014-01-27T06:31:00.000Z","id":308,"up":1,"down":0}]

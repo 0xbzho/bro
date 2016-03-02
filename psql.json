@@ -1,0 +1,1 @@
+[{"cmd":"psql","msg":"# open a remote database\npsql -h hostname dbname username","updated_at":"2015-10-23T08:08:44.000Z","id":758,"up":4,"down":0},{"cmd":"psql","msg":"# connect to a database that already exists\npsql -d database_name","updated_at":"2014-02-12T03:08:13.000Z","id":543,"up":1,"down":0}]

@@ -1,0 +1,1 @@
+[{"cmd":"install","msg":"#Copies a file into a directory and set the mode to executable (rwxr-xr-x)\ninstall helloworld /usr/bin","updated_at":"2016-01-14T22:06:02.000Z","id":969,"up":2,"down":1}]

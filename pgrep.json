@@ -1,0 +1,1 @@
+[{"cmd":"pgrep","msg":"# Find the pids of all python processes on your system.\npgrep python","updated_at":"2014-07-16T05:30:28.000Z","id":321,"up":2,"down":0},{"cmd":"pgrep","msg":"# Find the pids of processes with 'test.py' as an argument, like 'python test.py'\npgrep -f test.py","updated_at":"2014-01-28T00:37:53.000Z","id":322,"up":2,"down":0}]

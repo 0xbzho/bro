@@ -1,0 +1,1 @@
+[{"cmd":"ld","msg":"# ld - a linker\n\n# link two object files with a specified output name\nld -o hello-world ./hello.o ./world.o\n\n# instruct ld to use name all input files as they are processed\nld -o hello-world ./hello.o ./world.o -t\nld -o hello-world ./hello.o ./world.o --trace","updated_at":"2014-10-29T18:36:14.000Z","id":784,"up":4,"down":0}]

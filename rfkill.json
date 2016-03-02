@@ -1,0 +1,1 @@
+[{"cmd":"rfkill","msg":"# Turn off all wireless devices.\nrfkill block all","updated_at":"2014-12-08T12:51:14.000Z","id":954,"up":1,"down":0},{"cmd":"rfkill","msg":"# Turn on all wireless devices.\nrfkill unblock all","updated_at":"2014-12-08T12:51:47.000Z","id":955,"up":1,"down":0}]

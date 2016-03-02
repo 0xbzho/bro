@@ -1,0 +1,1 @@
+[{"cmd":"ntpdate","msg":"# sync your time with da server\nsudo ntpdate pool.ntp.org","updated_at":"2015-10-14T19:14:20.000Z","id":673,"up":2,"down":0}]

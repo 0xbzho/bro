@@ -1,0 +1,1 @@
+[{"cmd":"hexdump","msg":"# Display a file in a hex view using 16 bytes per row, and print the corresponding ASCII characters next to each row.\nhexdump -C \u003C myfile","updated_at":"2016-01-21T22:49:03.000Z","id":766,"up":3,"down":0}]

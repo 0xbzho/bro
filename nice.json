@@ -1,0 +1,1 @@
+[{"cmd":"nice","msg":"# Runs the 'gcc' command at a lower priority\n\nnice -n 15 make gcc -o test test.c","updated_at":"2014-12-09T22:03:43.000Z","id":602,"up":2,"down":0}]

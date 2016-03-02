@@ -1,0 +1,1 @@
+[{"cmd":"iperf","msg":"# test network with iperf client mode using UDP packets, sending bandwidth at 1 M/sec, port 50000, 30 seconds, with 8 parallel client threads\niperf -u -c [ip_address] -p 50000 -b 1M -t 30 -P 8","updated_at":"2014-01-29T16:33:40.000Z","id":423,"up":1,"down":0}]

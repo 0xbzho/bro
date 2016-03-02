@@ -1,0 +1,1 @@
+[{"cmd":"livestreamer","msg":"# your_comment_here\nOpens flash streams in vlc (default).\n\nExample:\nlivestreamer youtube.com/random-movie best\nlivestreamer twitch.tv/random-stream medium\nlivestreamer justin.tv/random-stream worst\n\nFormat:\nlivestreamer link quality.","updated_at":"2014-05-11T18:24:57.000Z","id":492,"up":2,"down":0}]

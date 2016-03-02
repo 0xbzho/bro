@@ -1,0 +1,1 @@
+[{"cmd":"socat","msg":"# Listen for a docker container on OS X to show it's display\nsocat TCP-LISTEN:6000,reuseaddr,fork UNIX-CLIENT:\\\"$DISPLAY\\\"","updated_at":"2015-10-28T10:08:13.000Z","id":1213,"up":1,"down":0}]

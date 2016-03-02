@@ -1,0 +1,1 @@
+[{"cmd":"timeout","msg":"# open(start) and then close(kill) program(script) after X seconds\ntimeout 10 firefox","updated_at":"2015-11-16T12:05:58.000Z","id":1224,"up":1,"down":0},{"cmd":"timeout","msg":"# timeout video in mplayer after 12 seconds\ntimeout 12 mplayer /path/to/video.asf","updated_at":"2015-11-16T11:56:49.000Z","id":1030,"up":0,"down":3}]

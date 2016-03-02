@@ -1,0 +1,1 @@
+[{"cmd":"git reset","msg":"# make your current branch point to HEAD, throws away all uncommitted changes\ngit reset --hard HEAD","updated_at":"2014-03-20T05:11:03.000Z","id":51,"up":2,"down":0}]

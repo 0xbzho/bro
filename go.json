@@ -1,0 +1,1 @@
+[{"cmd":"go","msg":"# Run tests in current folder and all sub-folders\ngo test ./...","updated_at":"2015-09-11T07:23:04.000Z","id":1144,"up":2,"down":0}]

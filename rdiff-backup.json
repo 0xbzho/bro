@@ -1,0 +1,1 @@
+[{"cmd":"rdiff-backup","msg":"# Backs up /foo to /media/bar\nrdiff-backup /foo /media/bar","updated_at":"2014-10-14T13:25:46.000Z","id":893,"up":1,"down":0},{"cmd":"rdiff-backup","msg":"# Backs up /foo to /media/boo and does not cross filesystem boundaries\nrdiff-backup /foo /media/boo --exclude-other-filesystems","updated_at":"2014-10-14T13:27:39.000Z","id":894,"up":1,"down":0}]

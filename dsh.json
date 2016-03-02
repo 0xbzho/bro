@@ -1,0 +1,1 @@
+[{"cmd":"dsh","msg":"# Lists the machine and filename in the root folder (concurrently) from each machine in machines.txt \ndsh -f machines.txt -c -M 'ls /'","updated_at":"2014-02-03T23:42:14.000Z","id":491,"up":1,"down":0}]

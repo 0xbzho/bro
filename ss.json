@@ -1,0 +1,1 @@
+[{"cmd":"ss","msg":"# Display listening sockets, tcp and ports. Alternative netstat -nltp\nss -nltp","updated_at":"2015-08-28T02:26:05.000Z","id":910,"up":2,"down":0}]

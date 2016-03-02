@@ -1,0 +1,1 @@
+[{"cmd":"fold","msg":"fold -w 80 -s\n\n# your_comment_here\nadd a line breaks so that your text doesn't reach more than 80 characters per line, breaks on space if possible","updated_at":"2015-05-07T18:36:35.000Z","id":1085,"up":1,"down":0}]

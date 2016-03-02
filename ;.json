@@ -1,0 +1,1 @@
+[{"cmd":";","msg":"# Concatenate multiple commands into one line and execute each one.\n# This will cd to home dir and list all files (UNIX).\ncd ~; ls -ag","updated_at":"2014-04-04T19:06:36.000Z","id":689,"up":1,"down":0}]

@@ -1,0 +1,1 @@
+[{"cmd":"bonding","msg":"# Bond multiple interfaces into one bond \nmodprobe bonding mode=balance-rr miimon=100\nifenslave bond0 eth0 eth1","updated_at":"2014-01-26T19:26:10.000Z","id":267,"up":1,"down":0}]

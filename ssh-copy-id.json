@@ -1,0 +1,1 @@
+[{"cmd":"ssh-copy-id","msg":"# upload the key file ~/.ssh/id_rsa via ssh on port 80 to server\nssh-copy-id -i ~/.ssh/id_rsa example.com","updated_at":"2015-11-23T17:31:50.000Z","id":773,"up":1,"down":2}]

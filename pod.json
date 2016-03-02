@@ -1,0 +1,1 @@
+[{"cmd":"pod","msg":"# Update outdated project dependencies and create new Podfile.lock\npod update","updated_at":"2015-09-18T09:21:04.000Z","id":1174,"up":3,"down":0},{"cmd":"pod","msg":"# Create a sample Podfile\npod install","updated_at":"2015-09-18T09:20:45.000Z","id":1173,"up":1,"down":1}]

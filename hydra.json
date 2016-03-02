@@ -1,0 +1,1 @@
+[{"cmd":"hydra","msg":"# attack your own server at http://127.0.0.1/test/authtest with user admin and a 4-digit password:\nhydra -l admin -x 4:4:1 -t 1 -f -vV 127.0.0.1 http-get /test/authtest","updated_at":"2014-06-24T01:50:32.000Z","id":783,"up":2,"down":0}]

@@ -1,0 +1,1 @@
+[{"cmd":"SetFile","msg":"# set creation timestamp (-d) and modification timestamp (-m) for a file in OSX\nSetFile -d \"08/09/2014 00:11:16\" -m \"08/09/2014 00:11:16\" file.txt","updated_at":"2014-08-14T06:33:45.000Z","id":842,"up":1,"down":0}]

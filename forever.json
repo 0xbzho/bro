@@ -1,0 +1,1 @@
+[{"cmd":"forever","msg":"# List running forever-managed processes\nforever list","updated_at":"2014-05-30T20:29:19.000Z","id":768,"up":1,"down":0},{"cmd":"forever","msg":"# Start a new forever-managed process\nforever start -c coffee coffeeScriptFile.coffee","updated_at":"2014-05-30T20:30:04.000Z","id":769,"up":1,"down":0}]

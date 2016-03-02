@@ -1,0 +1,1 @@
+[{"cmd":"tune2fs","msg":"# Set filesystem label on ext2/ext3/ext4 filesystems.\ntune2fs -L label /dev/sda1","updated_at":"2014-10-11T02:21:42.000Z","id":882,"up":1,"down":0}]

@@ -1,0 +1,1 @@
+[{"cmd":"gpsd","msg":"# Run gpsd on device /dev/gps0\ngpsd /dev/gps0","updated_at":"2015-04-15T00:48:02.000Z","id":1068,"up":1,"down":0},{"cmd":"gpsd","msg":"# Run gpsd with some debug enabled on localhost:1337\ngpsd -b -N -D 2 /dev/ttyUSB0 -S 1337","updated_at":"2015-04-15T00:50:18.000Z","id":1069,"up":1,"down":0}]

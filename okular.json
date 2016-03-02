@@ -1,0 +1,1 @@
+[{"cmd":"okular","msg":"# Open a file as a seperate process with okular, if you CTRL+C out of the process in the terminal, okular will not be closed.\nokular yourfile.pdf \u0026","updated_at":"2015-10-06T10:17:07.000Z","id":1196,"up":1,"down":0}]

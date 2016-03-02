@@ -1,0 +1,1 @@
+[{"cmd":"smartctl","msg":"# Runs a short test on /dev/sda\nsmartctl -t short /dev/sda","updated_at":"2016-01-29T21:54:24.000Z","id":679,"up":3,"down":0}]

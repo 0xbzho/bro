@@ -1,0 +1,1 @@
+[{"cmd":"chkconfig","msg":"# turn on a service in centos for runlevels 3, 4, and 5\nchkconfig --level 345 my_service_name on","updated_at":"2014-07-02T00:05:21.000Z","id":814,"up":1,"down":0}]

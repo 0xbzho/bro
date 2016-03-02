@@ -1,0 +1,1 @@
+[{"cmd":"sips","msg":"# Resize image to width 500px, and saving to another file (respecting aspect ratio)\nsips -Z 500 in.png --out out.png","updated_at":"2015-08-21T11:37:13.000Z","id":1156,"up":1,"down":0}]

@@ -1,0 +1,1 @@
+[{"cmd":"swipl","msg":"# Loads .pl file in current directory\nswipl -s hello_world.pl","updated_at":"2015-01-25T19:27:23.000Z","id":994,"up":1,"down":0}]

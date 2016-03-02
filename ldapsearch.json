@@ -1,0 +1,1 @@
+[{"cmd":"ldapsearch","msg":"# Connect to a host using simple auth, with the base tree \"myhost\", and return all objects\nldapsearch -H ldap://localhost:1389 -x -b \"o=myhost\" objectclass=*","updated_at":"2015-09-18T14:22:39.000Z","id":1095,"up":2,"down":0}]

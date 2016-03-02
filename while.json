@@ -1,0 +1,1 @@
+[{"cmd":"while","msg":"# Ping a list of servers\nwhile read i; do ping -c1 $i; done \u003C listofservers.txt","updated_at":"2015-12-22T13:37:16.000Z","id":1239,"up":3,"down":0}]

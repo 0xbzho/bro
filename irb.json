@@ -1,0 +1,1 @@
+[{"cmd":"irb","msg":"# irb and load a file\nirb -r./file.rb\n\n# run irb like a repl\ncd my_gem\nirb -Ilib -rmy_gem_name","updated_at":"2014-04-23T04:22:47.000Z","id":272,"up":4,"down":0}]

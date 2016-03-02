@@ -1,0 +1,1 @@
+[{"cmd":"pushd","msg":"# Pushes a directory into a stack of directories for easy switching\npushd ~/example/dir","updated_at":"2014-08-28T18:14:13.000Z","id":779,"up":3,"down":0},{"cmd":"pushd","msg":"# shows you all directions in the stack\ndirs\n\n# switches to last stacked direction (by pushd)\npopd","updated_at":"2015-12-30T09:51:26.000Z","id":1145,"up":2,"down":0}]

@@ -1,0 +1,1 @@
+[{"cmd":"pear","msg":"# Set PHP Version used for phpize etc.\n# useful if several versions of PHP are installed\npear config-set php_ini /etc/php.ini","updated_at":"2014-01-25T14:43:14.000Z","id":69,"up":1,"down":0}]

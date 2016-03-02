@@ -1,0 +1,1 @@
+[{"cmd":"useradd","msg":"# Create a new user, set ahis shell, create his home directory, set it to /home/john, and name the user\nuseradd -s /bin/bash -m -d /home/john john","updated_at":"2015-11-14T18:05:00.000Z","id":232,"up":12,"down":1}]

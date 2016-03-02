@@ -1,0 +1,1 @@
+[{"cmd":"sdate","msg":"# Prints the current \"Eternal September\" date\nsdate\n\n# Causes cal to print the calendar for eternal september\n# You can wrap any program like this\nsdate cal","updated_at":"2015-10-23T13:55:22.000Z","id":1192,"up":2,"down":0}]

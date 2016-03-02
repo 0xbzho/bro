@@ -1,0 +1,1 @@
+[{"cmd":"fatlabel","msg":"# Set label on DOS/FAT/VFAT filesystems.\nfatlabel /dev/sda2 label","updated_at":"2014-10-11T02:26:14.000Z","id":883,"up":1,"down":0}]

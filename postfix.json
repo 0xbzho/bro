@@ -1,0 +1,1 @@
+[{"cmd":"postfix","msg":"# check whether postfix is running\nsudo postfix status","updated_at":"2014-01-27T09:06:10.000Z","id":313,"up":1,"down":0}]

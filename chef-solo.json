@@ -1,0 +1,1 @@
+[{"cmd":"chef-solo","msg":"# Executes chef solo with a solo.rb file\nchef-solo -c ./solo.rb","updated_at":"2014-12-19T20:43:49.000Z","id":971,"up":1,"down":0}]

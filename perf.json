@@ -1,0 +1,1 @@
+[{"cmd":"perf","msg":"# Build with perf then run program under reporter:\n# -g flag collects graph info on processor\nperf record -g ./myprogram\n# then view report:\nperf report --stdio","updated_at":"2014-02-02T04:48:25.000Z","id":475,"up":1,"down":0}]

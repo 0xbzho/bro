@@ -1,0 +1,1 @@
+[{"cmd":"wall","msg":"# Show the message \"hello\" on all the terminals of all logged-in users.\necho \"hello\" | wall","updated_at":"2015-11-05T22:06:10.000Z","id":660,"up":2,"down":0}]

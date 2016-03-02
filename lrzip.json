@@ -1,0 +1,1 @@
+[{"cmd":"lrzip","msg":"# lrzip a file (use lrztar for directories)\nlrzip \u003Cfile\u003E\n\n# lrzip a file with maximum compression\nlrzip -L 9 \u003Cfile\u003E","updated_at":"2015-05-18T02:54:52.000Z","id":1097,"up":1,"down":0}]

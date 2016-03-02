@@ -1,0 +1,1 @@
+[{"cmd":"mongo","msg":"# Connects to mongo server, running on local machine\nmongo\n\n# Connects to a particular database 'mydb' on mongo server, running on local machine\nmongo mydb","updated_at":"2014-02-08T20:46:57.000Z","id":529,"up":1,"down":0}]

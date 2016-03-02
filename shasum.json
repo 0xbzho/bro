@@ -1,0 +1,1 @@
+[{"cmd":"shasum","msg":"# Gets the sha256 sum of a file\nshasum -a 256 filename.txt","updated_at":"2015-10-13T01:36:55.000Z","id":654,"up":4,"down":0}]

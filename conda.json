@@ -1,0 +1,1 @@
+[{"cmd":"conda","msg":"# your_comment_here\nCreate a python virtual environment and install anaconda scientific distribution.\nconda create -n virtualenv_name anaconda","updated_at":"2015-07-29T17:58:06.000Z","id":1138,"up":1,"down":0}]

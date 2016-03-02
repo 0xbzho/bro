@@ -1,0 +1,1 @@
+[{"cmd":"mlabel","msg":"# Check the current label of /dev/sdb1\nsudo mlabel -i /dev/sdb1 -s ::\n\n# Set the label of /dev/sdb1 to MY_LABEL\nsudo mlabel -i /dev/sdb1 ::MY_LABEL","updated_at":"2014-03-24T10:12:23.000Z","id":626,"up":2,"down":0}]

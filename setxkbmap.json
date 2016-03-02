@@ -1,0 +1,1 @@
+[{"cmd":"setxkbmap","msg":"# Remaps the capslock key to act like the super (windows) key\nsetxkbmap -option caps:super","updated_at":"2015-11-25T23:32:15.000Z","id":1103,"up":2,"down":0}]

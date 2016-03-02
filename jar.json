@@ -1,0 +1,1 @@
+[{"cmd":"jar","msg":"# see what's inside a .jar archive\njar tf archive.jar","updated_at":"2015-06-29T17:48:15.000Z","id":530,"up":4,"down":0},{"cmd":"jar","msg":"jar xfv file.jar\n#extracts dot jar file. This did work","updated_at":"2016-01-31T22:42:26.000Z","id":1279,"up":1,"down":0}]

@@ -1,0 +1,1 @@
+[{"cmd":"jobs","msg":"# List background processes (eg. something you've used \u003Cc-z\u003E to hide)\njobs","updated_at":"2014-08-03T00:47:13.000Z","id":835,"up":1,"down":0},{"cmd":"jobs","msg":"# Print a comma-separated list of background jobs\necho ${$(echo `jobs | cut -d' ' -f6`)/[[:space:]]/,}","updated_at":"2014-08-03T00:48:41.000Z","id":836,"up":1,"down":0}]

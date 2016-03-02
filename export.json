@@ -1,0 +1,1 @@
+[{"cmd":"export","msg":"# How to add (for example) ~/opt/bin to $PATH\nexport PATH=$PATH:~/opt/bin","updated_at":"2015-10-16T02:43:38.000Z","id":1202,"up":1,"down":0}]

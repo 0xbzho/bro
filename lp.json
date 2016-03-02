@@ -1,0 +1,1 @@
+[{"cmd":"lp","msg":"# prints pdf file\nlp file.pdf","updated_at":"2014-05-11T14:57:34.000Z","id":749,"up":1,"down":0},{"cmd":"lp","msg":"# print on a specified destination printer\nlp -d \u003Cprinter\u003E file.pdf","updated_at":"2014-06-04T11:08:47.000Z","id":777,"up":1,"down":0}]

@@ -1,0 +1,1 @@
+[{"cmd":"nasm","msg":"# nasm - the netwide assembler\n\n# specific output name for input 'hello.asm'\nnasm -o assembled-hello ./hello.asm","updated_at":"2015-12-10T17:51:35.000Z","id":785,"up":4,"down":0}]

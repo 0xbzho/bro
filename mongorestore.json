@@ -1,0 +1,1 @@
+[{"cmd":"mongorestore","msg":"# restores dump to specific database\nmongorestore -d destinationDatabaseName ./path/to/dump/database","updated_at":"2015-01-05T18:28:46.000Z","id":822,"up":2,"down":0}]

@@ -1,0 +1,1 @@
+[{"cmd":"update-rc.d","msg":"# Disable daemons during boot-up (Debian distros only)\nupdate-rc.d -f mydaemon_name remove\n\n# Enable daemons during boot-up (Debian distros only)\nupdate-rc.d mydaemon_name default","updated_at":"2014-11-08T06:09:55.000Z","id":924,"up":1,"down":0}]

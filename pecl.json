@@ -1,0 +1,1 @@
+[{"cmd":"pecl","msg":"# Set PHP Version used for phpize etc.\n# useful if several versions of PHP are installed\npear config-set php_suffix 5","updated_at":"2014-01-25T14:44:36.000Z","id":70,"up":1,"down":0}]

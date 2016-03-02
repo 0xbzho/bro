@@ -1,0 +1,1 @@
+[{"cmd":"lvcreate","msg":"# Create logical volume of 1TB on volume group 'space' (as root):\nlvcreate -L1TB -nnewvol space","updated_at":"2014-11-02T08:20:13.000Z","id":923,"up":1,"down":0}]

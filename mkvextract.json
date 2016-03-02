@@ -1,0 +1,1 @@
+[{"cmd":"mkvextract","msg":"# Extracts track number 2 (zero based index) from movie.mkv and stores it in movie.srt.\n# In this case we extract subtitle track.\n# List of track can be shown by 'mkvinfo'\nmkvextract tracks movie.mkv 2:movie.srt","updated_at":"2014-04-01T21:20:13.000Z","id":683,"up":1,"down":0}]

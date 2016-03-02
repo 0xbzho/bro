@@ -1,0 +1,1 @@
+[{"cmd":"git revert","msg":"# Reverts the last commit made by creating another commit\ngit revert HEAD","updated_at":"2014-04-08T23:16:21.000Z","id":658,"up":2,"down":0},{"cmd":"git revert","msg":"# Undo the changes made by a particular commit.\ngit revert SHA","updated_at":"2015-02-06T15:17:16.000Z","id":1004,"up":1,"down":0}]

@@ -1,0 +1,1 @@
+[{"cmd":"lynx","msg":"# run the lynx browser and load www.google.com\nlynx www.google.com","updated_at":"2015-10-04T23:41:08.000Z","id":209,"up":7,"down":0},{"cmd":"lynx","msg":"# extract all links from a website | cut off numbers\nlynx -dump -listonly example.com | perl -pe 's/\\s*[0-9]+\\.\\s//'","updated_at":"2015-12-10T13:06:45.000Z","id":1237,"up":1,"down":0}]

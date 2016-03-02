@@ -1,0 +1,1 @@
+[{"cmd":"gunzip","msg":"# Decompress a Gzip file (removing/replacing the original compressed file)\ngunzip file.gz\n\n# Decompress a Gzip file (keep the original compressed file)\ngunzip -c file.gz \u003E file.out","updated_at":"2015-12-28T14:57:36.000Z","id":798,"up":5,"down":0}]

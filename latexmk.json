@@ -1,0 +1,1 @@
+[{"cmd":"latexmk","msg":"# Compiles targeted latex file whenever it detects a change, and updates the pdf as you do so.\nlatexmk -pdf -pvc your_file","updated_at":"2014-11-29T01:08:03.000Z","id":947,"up":1,"down":0}]

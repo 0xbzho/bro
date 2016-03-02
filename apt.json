@@ -1,0 +1,1 @@
+[{"cmd":"apt","msg":"# show various technical information about the 'firefox' package,\n# as well as a short description\napt show firefox","updated_at":"2015-07-16T17:31:52.000Z","id":1129,"up":1,"down":0}]

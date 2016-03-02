@@ -1,0 +1,1 @@
+[{"cmd":"axel","msg":"axel -a -n8 http://site.com/large.file.iso\nDownloads the file at site.com/large.file.iso using 8 threads and the new alternitive progress bar for axel","updated_at":"2014-01-25T17:44:03.000Z","id":88,"up":1,"down":0}]

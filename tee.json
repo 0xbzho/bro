@@ -1,0 +1,1 @@
+[{"cmd":"tee","msg":"# echo the text \"hi\" to STDOUT and to file.txt\necho \"hi\" | tee -a file.txt","updated_at":"2015-10-05T16:27:33.000Z","id":372,"up":6,"down":0},{"cmd":"tee","msg":"# save your ruby irb session as you go\nirb | tee -a save-todays-ruby-session.hist","updated_at":"2014-02-18T06:35:43.000Z","id":456,"up":2,"down":0}]

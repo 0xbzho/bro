@@ -1,0 +1,1 @@
+[{"cmd":"git add","msg":"# Stages only the modified files.  Great if you've moved some files into a subfolder and you want to keep their git history.\ngit add -u","updated_at":"2016-02-08T05:03:15.000Z","id":228,"up":2,"down":0},{"cmd":"git add","msg":"# Add a folder to the index\ngit add ./folder","updated_at":"2014-01-25T18:01:58.000Z","id":95,"up":1,"down":0}]

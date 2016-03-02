@@ -1,0 +1,1 @@
+[{"cmd":"set","msg":"# stop script execution if error happen ( exitcode != 0 ) http://tldp.org/LDP/abs/html/exitcodes.html\nset -e","updated_at":"2014-04-18T21:35:47.000Z","id":717,"up":1,"down":0}]

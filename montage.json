@@ -1,0 +1,1 @@
+[{"cmd":"montage","msg":"# create a tiled montage that is three columns across, and two rows down, (scale down by 50% during montage creation)\nmontage *.jpg -tile 3x2 -geometry 50% output_name.jpg","updated_at":"2015-03-09T18:50:09.000Z","id":1038,"up":1,"down":0}]

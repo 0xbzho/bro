@@ -1,0 +1,1 @@
+[{"cmd":"git branch --merged","msg":"# your_comment_here\nShows all the branches which have been merged into the current HEAD, e.g., master. To show all the branches that have been merged into branch foo use ' git branch --merged foo'","updated_at":"2014-02-05T23:17:07.000Z","id":511,"up":1,"down":0}]

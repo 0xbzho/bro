@@ -1,0 +1,1 @@
+[{"cmd":"setterm","msg":"# copy current contents of pseudo terminal #4 (as root):\nsetterm -dump 4 -file /dev/stdout","updated_at":"2015-02-08T16:07:58.000Z","id":1005,"up":1,"down":0}]

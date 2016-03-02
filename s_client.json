@@ -1,0 +1,1 @@
+[{"cmd":"s_client","msg":"# get certificate from remote server\nopenssl s_client -connect www.domain.com:443 -showcerts","updated_at":"2014-01-25T10:37:06.000Z","id":58,"up":0,"down":1}]

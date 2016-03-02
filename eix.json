@@ -1,0 +1,1 @@
+[{"cmd":"eix","msg":"# Look for the libreoffice package in your local portage-tree by name\neix libreoffice","updated_at":"2014-01-27T13:48:35.000Z","id":332,"up":1,"down":0},{"cmd":"eix","msg":"# Look for all installed packages whose name start with php  using eix\neix -I php*","updated_at":"2014-01-27T13:50:47.000Z","id":333,"up":1,"down":0}]

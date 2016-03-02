@@ -1,0 +1,1 @@
+[{"cmd":"xinit","msg":"# start a default X session\nxinit","updated_at":"2014-01-28T08:32:32.000Z","id":391,"up":1,"down":0},{"cmd":"xinit","msg":"# Start an X session with i3wm on display :1\nxinit /usr/bin/i3 -- :1","updated_at":"2014-01-28T08:34:05.000Z","id":392,"up":1,"down":0}]

@@ -1,0 +1,1 @@
+[{"cmd":"feh","msg":"# Show thumbnails of your pictures in a folder\nfeh -t folder\n\n# Show a picture in auto zoom mode\nfeh -Z picture.jpg","updated_at":"2014-07-09T17:43:18.000Z","id":726,"up":2,"down":0},{"cmd":"feh","msg":"# Set a background image for Xorg\nfeh --bg-scale file.png\nfeh --bg-fill file.jpg","updated_at":"2015-06-29T15:45:32.000Z","id":1109,"up":1,"down":0}]

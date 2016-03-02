@@ -1,0 +1,1 @@
+[{"cmd":"opendiff","msg":"# Run it inside a git repo to use opendiff as difftool.\ngit difftool -d -t opendiff","updated_at":"2016-02-21T21:00:42.000Z","id":1284,"up":1,"down":0}]

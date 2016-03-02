@@ -1,0 +1,1 @@
+[{"cmd":"diskutil","msg":"# shows all available disks and their partitioning \ndiskutil list","updated_at":"2015-11-10T10:37:32.000Z","id":1072,"up":2,"down":0},{"cmd":"diskutil","msg":"# Show detailed information on a particular disk or partition \ndiskutil info disk-or-partition","updated_at":"2015-04-22T18:45:50.000Z","id":1073,"up":1,"down":0}]

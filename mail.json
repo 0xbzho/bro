@@ -1,0 +1,1 @@
+[{"cmd":"mail","msg":"# Sends email to multiple addresses with custom from address\necho -e \"Hello!\\nThis is email body\" | mail -s \"Place for subject\" -r \"from@domain.com\" \"to.first@domain.com,to.second@domain.com\"","updated_at":"2015-05-29T09:19:54.000Z","id":649,"up":5,"down":0}]

@@ -1,0 +1,1 @@
+[{"cmd":"elasticsearch","msg":"# Start ElasticSearch as daemon.\nelasticsearch -d","updated_at":"2015-10-21T17:24:36.000Z","id":1086,"up":2,"down":0}]

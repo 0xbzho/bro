@@ -1,0 +1,1 @@
+[{"cmd":"mvn","msg":"# clean and install with maven but skip the tests\nmvn clean install -Dmaven.test.skip=true","updated_at":"2015-08-31T17:21:47.000Z","id":964,"up":2,"down":0},{"cmd":"mvn","msg":"# Redeploy maven war witout testing :)\nmvn tomcat7:redeploy -Dmaven.test.skip=true","updated_at":"2014-12-18T15:29:15.000Z","id":967,"up":1,"down":0}]

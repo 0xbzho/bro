@@ -1,0 +1,1 @@
+[{"cmd":"usermod","msg":"# Add existing user to existing group\nusermod -a -G group_name user_name","updated_at":"2015-10-03T14:51:54.000Z","id":425,"up":6,"down":0}]

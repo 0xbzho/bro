@@ -1,0 +1,1 @@
+[{"cmd":"emacs","msg":"# Use emacs to open my-file within the terminal (not in a separate window)\nemacs -nw my-file","updated_at":"2015-12-08T22:02:18.000Z","id":957,"up":7,"down":0}]

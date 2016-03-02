@@ -1,0 +1,1 @@
+[{"cmd":"git alias","msg":"# Add an alias called \"foo\" that runs \"git log -n 3\"\ngit config --global alias.foo \"log -n 3\"\n\n# Modify an existing alias \"foo\"\ngit config --global --replace-all alias.foo \"log -3 --graph --abbrev-commit\"\n\n# Delete an alias \"foo\"\ngit config --global --unset alias.foo","updated_at":"2015-08-01T01:49:42.000Z","id":407,"up":2,"down":0}]

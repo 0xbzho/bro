@@ -1,0 +1,1 @@
+[{"cmd":"apachectl","msg":"# Restart the apache web server\napachectl restart","updated_at":"2015-02-25T21:01:54.000Z","id":1026,"up":1,"down":0}]

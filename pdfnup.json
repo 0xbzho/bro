@@ -1,0 +1,1 @@
+[{"cmd":"pdfnup","msg":"# merges every two pages to one (cols x rows)\npdfnup --nup 1x2 --suffix '1x2' --batch FILE.pdf\n\n# merges FILE.pdf to FILE-2x1.pdf\npdfnup --nup 2x1 --suffix '2x1' --batch FILE.pdf","updated_at":"2015-07-28T10:19:25.000Z","id":1135,"up":1,"down":0}]

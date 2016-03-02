@@ -1,0 +1,1 @@
+[{"cmd":"sox","msg":"# Transpose input.mp3  1 tone lower and saves it as output.mp3\nsox input.mp3 output.mp3 pitch -200\n\n#Transpose input.mp3  1/2 tone higher and saves it as output.mp3\nsox input.mp3 output.mp3 pitch 100","updated_at":"2015-02-13T12:10:09.000Z","id":1015,"up":1,"down":0}]

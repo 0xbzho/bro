@@ -1,0 +1,1 @@
+[{"cmd":"exiftool","msg":"# Remove all exif data from an image \nexiftool -all=image.jpg","updated_at":"2014-05-02T01:28:33.000Z","id":113,"up":2,"down":0}]

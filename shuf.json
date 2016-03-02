@@ -1,0 +1,1 @@
+[{"cmd":"shuf","msg":"# print 5 random lines from datafile.csv\nshuf -n 5 datafile.csv\n\n# inspect datafile.csv\n(head -1; shuf -n 7; tail -1) \u003C datafile.csv\n\n# roll a 20-sided die\nshuf -i 1-20 | head -1\n\n# choose where to go for lunch\nshuf -e moes joes golden_corral taqueria | head -1","updated_at":"2015-01-21T20:47:49.000Z","id":453,"up":4,"down":0}]

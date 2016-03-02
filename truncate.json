@@ -1,0 +1,1 @@
+[{"cmd":"truncate","msg":"# truncates a file to size 0 (empty)\ntruncate -s 0 bro.log","updated_at":"2015-01-05T05:54:50.000Z","id":980,"up":1,"down":0}]

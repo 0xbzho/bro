@@ -1,0 +1,1 @@
+[{"cmd":"hdiutil","msg":"# Resize a sparse disk image to be 1200 MB large \nhdiutil resize -size 1200m mydisk.sparseimage","updated_at":"2014-02-05T10:22:13.000Z","id":502,"up":1,"down":0}]

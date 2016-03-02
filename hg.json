@@ -1,0 +1,1 @@
+[{"cmd":"hg","msg":"# pull the Mercurial source \nhg clone http://selenic.com/repo/hello\n# add a file to the repository\nhg add new_file.txt\n# commit the changes\nhg commit -m 'commit message'\n# push the changes back to the servec\nhg push","updated_at":"2014-01-28T12:10:03.000Z","id":227,"up":2,"down":0}]

@@ -1,0 +1,1 @@
+[{"cmd":"snapper","msg":"# Create a pre and post snapshot with system update (Arch Linux)\nsnapper create -d \"system update\" --command \"pacman -Syu\"","updated_at":"2014-10-24T18:07:04.000Z","id":917,"up":1,"down":0},{"cmd":"snapper","msg":"# Delete a snapshot \nsnapper rm number1","updated_at":"2014-10-24T18:18:51.000Z","id":918,"up":1,"down":0}]

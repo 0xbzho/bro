@@ -1,0 +1,1 @@
+[{"cmd":"vagrant","msg":"# provision vagrant with file and shell\nvagrant provision --provision-with file,shell","updated_at":"2014-12-18T16:05:03.000Z","id":968,"up":1,"down":0}]

@@ -1,0 +1,1 @@
+[{"cmd":"tcpick","msg":"# Look at TCP data in printable form\n# Show Port 80 data\ntcpick -r $FILE -yP \"port 80\"\n\n# Show all TCP flows\ntcpick -r $FILE -C","updated_at":"2014-02-27T02:32:16.000Z","id":591,"up":1,"down":0}]

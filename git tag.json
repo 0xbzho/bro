@@ -1,0 +1,1 @@
+[{"cmd":"git tag","msg":"# List tags:\ngit tag\n\n# Create an annotated tag:\ngit tag -a mytag","updated_at":"2015-08-20T13:34:50.000Z","id":1155,"up":1,"down":0},{"cmd":"git tag","msg":"# Tag a specific commit\ngit tag -a my_tag commit_hash","updated_at":"2015-12-30T00:10:27.000Z","id":1263,"up":1,"down":0}]

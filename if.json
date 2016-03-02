@@ -1,0 +1,1 @@
+[{"cmd":"if","msg":"# echos \"found\" if a file contains the word you're looking for\nif grep myword myfile.txt ; then echo \"found\" ; fi\n\n# same thing on multiple lines\nif grep myword myfile.txt\n then echo \"found\"\nfi","updated_at":"2014-07-26T22:59:18.000Z","id":659,"up":2,"down":0}]

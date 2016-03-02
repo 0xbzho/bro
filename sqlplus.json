@@ -1,0 +1,1 @@
+[{"cmd":"sqlplus","msg":"# Starts console with db with specified credentials\nsqlplus myusername/mypassword@ORCL","updated_at":"2015-03-03T16:28:31.000Z","id":1036,"up":1,"down":0}]

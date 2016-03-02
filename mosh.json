@@ -1,0 +1,1 @@
+[{"cmd":"mosh","msg":"# You can run remote command\nmosh user@host -- your_command with arguments\n\n# It's handy for direct tmux session\nmosh user@host -- tmux attach -t your_session_name","updated_at":"2015-11-26T07:17:25.000Z","id":214,"up":3,"down":0}]

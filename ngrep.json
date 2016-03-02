@@ -1,0 +1,1 @@
+[{"cmd":"ngrep","msg":"# Search for any word with user\nngrep -q -I $FILE|grep -i user\n\n# Search for emails\nngrep -q -I $FILE '[a-zA-Z0-9.]+\\.?@[a-zA-Z0-9.]+\\.[a-zA-Z0-9]+' |grep -Eo '[a-zA-Z0-9.]+\\.?@[a-zA-Z0-9.]+\\.[a-zA-Z0-9]+'|sort|uniq","updated_at":"2015-09-03T08:47:45.000Z","id":592,"up":2,"down":0}]

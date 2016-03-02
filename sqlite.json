@@ -1,0 +1,1 @@
+[{"cmd":"sqlite","msg":"# Convert sqlite2 database to sqlite3\n# you need both versions installed for this\n# attention! on some systems sqlite2 is just called sqlite\nsqlite2 path/to/olddb .dump \u003E backupfile\nsqlite3 path/to/newdb \u003C backupfile","updated_at":"2014-11-18T09:28:13.000Z","id":327,"up":2,"down":0}]

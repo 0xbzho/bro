@@ -1,0 +1,1 @@
+[{"cmd":"encfs","msg":"# create an encrypted directory that you can sync on dropbox, and mount it to your file system\n# both the encrypted and mount_point directories must exist, and be empty\nencfs /home/jdoe/documents/encrypted /home/jdoe/documents/mount_point","updated_at":"2015-02-28T16:32:07.000Z","id":1031,"up":1,"down":0}]

@@ -1,0 +1,1 @@
+[{"cmd":"hub","msg":"# Use GitHub's Hub to create a pull request of the\n# current branch into the develop branch.\nhub pull-request -b develop","updated_at":"2015-07-14T18:25:11.000Z","id":1127,"up":1,"down":0}]

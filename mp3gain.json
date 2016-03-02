@@ -1,0 +1,1 @@
+[{"cmd":"mp3gain","msg":"#add 3 dB to every mp3 in current directory\nmp3gain -g 3 *.mp3","updated_at":"2014-07-31T11:36:15.000Z","id":834,"up":1,"down":0}]

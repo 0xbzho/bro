@@ -1,0 +1,1 @@
+[{"cmd":"sam2p","msg":"# convert PNG image to PDF and scale image to fit page (-e)\nsam2p -e in.png out.pdf","updated_at":"2015-08-26T20:44:08.000Z","id":1158,"up":1,"down":0}]

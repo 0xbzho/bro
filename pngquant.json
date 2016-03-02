@@ -1,0 +1,1 @@
+[{"cmd":"pngquant","msg":"# create a copy of the file with an optimization of 85 (out of 100)\npngquant --quality 85 image.png","updated_at":"2015-10-29T21:22:17.000Z","id":1217,"up":1,"down":0}]

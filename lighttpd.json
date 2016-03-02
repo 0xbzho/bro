@@ -1,0 +1,1 @@
+[{"cmd":"lighttpd","msg":"# Start a new process of lighttpd with your own config file. This file can contain port definitions, web locations, access permissions and stuff.\nlighttpd -f lighttpd.conf","updated_at":"2014-02-28T08:26:47.000Z","id":594,"up":1,"down":0}]

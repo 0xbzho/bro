@@ -1,0 +1,1 @@
+[{"cmd":"touch","msg":"# Updates the timestamp of the file 'temp' or creates it if it doesn't exist\ntouch temp","updated_at":"2015-04-09T13:49:54.000Z","id":80,"up":19,"down":0},{"cmd":"touch","msg":"# Change the unix timestamp of a file to an arbitary date\ntouch -d '12 Jun 2005 10:05' /path/to/target_file","updated_at":"2015-11-17T19:06:41.000Z","id":832,"up":4,"down":0}]

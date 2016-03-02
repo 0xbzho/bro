@@ -1,0 +1,1 @@
+[{"cmd":"ipython","msg":"# Opens IPython Notebook with loaded PyLab library and inline plots\nipython notebook --pylab inline","updated_at":"2014-06-16T17:04:40.000Z","id":403,"up":2,"down":0}]

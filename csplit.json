@@ -1,0 +1,1 @@
+[{"cmd":"csplit","msg":"# break the whole file in a specific pattern into several files with a prefix: out00, out01, out02,...\ncsplit inputfile.txt -f out /searchstring/ {*}","updated_at":"2015-04-20T21:18:38.000Z","id":1071,"up":1,"down":0}]

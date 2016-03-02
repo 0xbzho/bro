@@ -1,0 +1,1 @@
+[{"cmd":"lsblk","msg":"# List information about available block devices incl. labels attached to them.\nlsblk -f","updated_at":"2015-01-03T17:05:01.000Z","id":880,"up":2,"down":0},{"cmd":"lsblk","msg":"# List available block devices incl. UUID identifier.\nlsblk -o +UUID","updated_at":"2014-10-11T02:18:24.000Z","id":881,"up":1,"down":0}]
