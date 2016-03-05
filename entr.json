@@ -1,1 +1,1 @@
-[{"cmd":"entr","msg":"# Rebuild project if sources change\nls *.c *.c | entr make\n\n# Rebuild project and run tests if the build was successful\nls *.c *.h | entr sh -c 'make \u0026\u0026 make test'","updated_at":"2015-10-20T05:32:57.000Z","id":1208,"up":1,"down":0}]
+[{"cmd":"entr","msg":"# Rebuild project if sources change\nls *.c *.c | entr make\n\n# Rebuild project and run tests if the build was successful\nls *.c *.h | entr sh -c 'make \u0026\u0026 make test'","updated_at":"2016-03-05T15:17:33.000Z","id":1208,"up":2,"down":0}]
