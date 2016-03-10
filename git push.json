@@ -1,1 +1,1 @@
-[{"cmd":"git push","msg":"# delete a remote branch\ngit push origin :feature/cool-thing\n\n# alternatively\ngit push origin --delete feature/cool-thing","updated_at":"2015-04-22T01:25:20.000Z","id":610,"up":3,"down":0}]
+[{"cmd":"git push","msg":"# delete a remote branch\ngit push origin :feature/cool-thing\n\n# alternatively\ngit push origin --delete feature/cool-thing","updated_at":"2016-03-10T20:55:02.000Z","id":610,"up":4,"down":0}]
