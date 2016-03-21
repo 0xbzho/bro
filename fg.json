@@ -1,1 +1,1 @@
-[{"cmd":"fg","msg":"# Open last suspended process\nfg","updated_at":"2016-01-26T19:16:37.000Z","id":1275,"up":1,"down":0},{"cmd":"fg","msg":"# Open 2nd suspended process in buffer\nfg %2","updated_at":"2016-01-26T19:17:41.000Z","id":1276,"up":1,"down":0}]
+[{"cmd":"fg","msg":"# Open last suspended process\nfg","updated_at":"2016-03-21T09:35:52.000Z","id":1275,"up":2,"down":0},{"cmd":"fg","msg":"# Open 2nd suspended process in buffer\nfg %2","updated_at":"2016-03-21T09:36:16.000Z","id":1276,"up":2,"down":0}]
